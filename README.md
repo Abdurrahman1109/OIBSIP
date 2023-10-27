@@ -1,2 +1,4 @@
-# OIBSIP
-All the task are in the Repository given by Oasis Infobyte for Internship
+# Oasis Infobyte
+Task 1: Landing page of website
+Task 2: Portfolio Website
+Task 3: Temprature Converter Website
